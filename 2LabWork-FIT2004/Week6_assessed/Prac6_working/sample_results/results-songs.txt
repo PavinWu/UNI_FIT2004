@@ -1,0 +1,69 @@
+T = 390
+ID: 7 Duration: 78
+ID: 16 Duration: 87
+ID: 17 Duration: 14
+ID: 18 Duration: 211
+
+T = 290
+Bad luck Alice!
+
+T = 575
+ID: 5 Duration: 393
+ID: 14 Duration: 168
+ID: 17 Duration: 14
+
+T = 650
+ID: 1 Duration: 464
+ID: 8 Duration: 134
+ID: 12 Duration: 52
+
+T = 750
+ID: 7 Duration: 78
+ID: 9 Duration: 346
+ID: 10 Duration: 326
+
+T = 2920
+ID: 1 Duration: 464
+ID: 2 Duration: 371
+ID: 5 Duration: 393
+ID: 6 Duration: 451
+ID: 8 Duration: 134
+ID: 9 Duration: 346
+ID: 10 Duration: 326
+ID: 11 Duration: 435
+
+T = 3900
+ID: 1 Duration: 464
+ID: 2 Duration: 371
+ID: 4 Duration: 403
+ID: 5 Duration: 393
+ID: 6 Duration: 451
+ID: 7 Duration: 78
+ID: 8 Duration: 134
+ID: 9 Duration: 346
+ID: 10 Duration: 326
+ID: 11 Duration: 435
+ID: 12 Duration: 52
+ID: 13 Duration: 447
+
+T = 4900
+ID: 1 Duration: 464
+ID: 2 Duration: 371
+ID: 3 Duration: 352
+ID: 4 Duration: 403
+ID: 5 Duration: 393
+ID: 6 Duration: 451
+ID: 8 Duration: 134
+ID: 9 Duration: 346
+ID: 10 Duration: 326
+ID: 11 Duration: 435
+ID: 12 Duration: 52
+ID: 13 Duration: 447
+ID: 14 Duration: 168
+ID: 15 Duration: 294
+ID: 17 Duration: 14
+ID: 18 Duration: 211
+ID: 20 Duration: 39
+
+T = 4901
+Bad luck Alice!

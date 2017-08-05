@@ -1,0 +1,20 @@
+docs.python.org/3/library/stdtypes.html
+docs.python.org/3/tutorial/inputoutput.html
+
+stackoverflow.com/questions/15319561/hto-to-implement-a-median-heap
+https://docs.python.org/3.0/library/heapq.html
+
+http://stackoverflow.com/questions/2501457/what-do-i-use-for-a-max-heap-implementation-in-python
+
+https://en.wikipedia.org/wiki/Convergent_series
+
+http://hotmath.com/hotmath_help/topics/geometric-series.html
+
+http://stackoverflow.com/questions/24407555/partial-sorting-to-find-the-kth-largest-smallest-elements
+
+
+Timsort - Wikipedia, the free encyclopedia
+
+https://www.cs.usfca.edu/%7Egalles/visualization/Heap.html
+
+https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
